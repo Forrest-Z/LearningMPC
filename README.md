@@ -15,7 +15,7 @@ Lap 25 (Top speed 3 m/s)
 
 ![](media/lap25.gif)
 
-After Lap 60, it converges to an optimal policy (racing line and spped profile)
+After Lap 60, it converges to an optimal policy (Top speed 6 m/s)
 
 ![](media/lap50.gif)
 
