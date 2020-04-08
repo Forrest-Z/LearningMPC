@@ -7,6 +7,6 @@ Initial Sample Safe Set (Lap 1 and Lap 2) is collected using a PID path followin
 
 Lap 5 (Top speed 1.2 m/s)
 
-![](lap5.gif)
+![](media/lap5.gif)
 
 
